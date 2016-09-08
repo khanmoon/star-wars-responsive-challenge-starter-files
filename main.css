@@ -1,0 +1,63 @@
+*{
+	box-sizing: border-box;
+}
+
+.contain{
+	background-color:orange;
+	width: 100%;
+	margin:0;
+	padding: 0;
+}
+.top{
+	max-width: 1000px;
+	margin: auto;
+}
+.top h1{
+	font-size: 20px;
+	margin-left: 30px;
+}
+.top h2{
+	font-size: 10px;
+	margin-left: 30px;
+}
+/*.ray{
+	background-image: url(images/rey_square.png);
+	height: 333px;
+	background-size: cover;
+}
+
+.Finn{
+	background-image: url(images/Finn_square.png);
+	height: 333px;
+	background-size: cover;
+}
+.Kylo{
+	background-image: url(images/Kylo_square.png);
+	height: 333px;
+	background-size: cover;
+}
+.Poe{
+	background-image: url(images/Poe_square.png);
+	height: 333px;
+	background-size: cover;
+}
+.chew{
+	background-image: url(images/chewbacca_square.png);
+	height: 333px;
+	background-size: cover;
+}
+.yoda{
+	background-image: url(images/yoda_square.png);
+	height: 333px;
+	background-size: cover;
+}*/
+.border{
+	border: 1px lightgrey solid;
+	margin-top: 20px;
+}
+img{
+	width: 100%;
+}
+.border h3,.border p{
+	margin-left: 20px;
+}
